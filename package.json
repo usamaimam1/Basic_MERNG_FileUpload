@@ -1,0 +1,9 @@
+{
+  "name": "Basic_MERNG_FileUpload",
+  "version": "1.0.0",
+  "description": "Simple App to test file upload on GraphQL with a client server based applicaiton",
+  "main": "index.js",
+  "repository": "https://github.com/usamaimam1/Basic_MERNG_FileUpload.git",
+  "author": "System Plus Pvt Limited",
+  "license": "MIT"
+}
