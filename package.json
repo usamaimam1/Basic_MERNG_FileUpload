@@ -5,5 +5,15 @@
   "main": "index.js",
   "repository": "https://github.com/usamaimam1/Basic_MERNG_FileUpload.git",
   "author": "System Plus Pvt Limited",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.24.1",
+    "apollo-server-express": "^2.24.1",
+    "cors": "^2.8.5",
+    "graphql": "^15.5.0"
+  },
+  "resolutions": {
+    "fs-capacitor": "^6.2.0",
+    "graphql-upload": "^11.0.0"
+  }
 }
